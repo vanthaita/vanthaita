@@ -16,15 +16,10 @@
 ---
 
 ### 🌱 Currently Learning
-- Web3
-<div style="width:200px; margin:auto;">
-    <img src="https://i.pinimg.com/originals/6f/94/bc/6f94bc83f0b71571c7317ce76605ced6.gif" alt="Web3 Learning" style="height:100px; width:100%;">
-</div>
-
+- Web3, Blockchain
 ### 💬 Ask Me About
 - NodeJs (NestJs, ExpressJs)
 - ReactJs (NextJs, Vue)
-
 ---
 
 <div align="center">
@@ -65,20 +60,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
-
----
-
-### 📫 Contact Me
-<div align="center">
-  <a href="mailto:tathasi@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border-radius=20px" alt="Email" style="border-radius: 20px;">
-  </a>
-  <a href="https://linkedin.com/in/tathasi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=20px" alt="LinkedIn" style="border-radius: 20px;">
-  </a>
+<div style="width:200px; margin:auto;">
+    <img src="https://i.pinimg.com/originals/6f/94/bc/6f94bc83f0b71571c7317ce76605ced6.gif" alt="Web3 Learning" style="height:100px; width:100%;">
 </div>
-
-
 ---
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" style="border-radius: 20px;" alt="Footer Image"/>
