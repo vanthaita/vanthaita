@@ -1,6 +1,9 @@
-<img src="[https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg](https://assets.pinterest.com/ext/embed.html?id=5066618328907640)" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Ta Van Thai / ター・ヴァン・タイ</h1>
+<h1 
+
+Uploading de54c77267d3ec567f75fe9efcc0d7cd.mp4…
+
+align="center">Hi 👋, I'm Ta Van Thai / ター・ヴァン・タイ</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3>
 
 <p align="center">
