@@ -61,9 +61,14 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 ---
-<div style="width:200px; margin:auto; " align="center">
-    <img src="https://i.pinimg.com/originals/6f/94/bc/6f94bc83f0b71571c7317ce76605ced6.gif" alt="Web3 Learning" style="height:100px; width:100%;">
+<div style="width: 100%; display: flex; justify-content: center; align-items: center;">
+    <div style="width: 200px; display: flex; justify-content: space-around;">
+        <img src="https://i.pinimg.com/originals/6f/94/bc/6f94bc83f0b71571c7317ce76605ced6.gif" alt="Web3 Learning" style="height: 100px; width: 100%;">
+        <img src="https://i.pinimg.com/originals/bb/dd/4e/bbdd4ea3986f4d3990caf2efb35c05a4.gif" alt="Web3 Learning" style="height: 100px; width: 100%;">
+        <img src="https://i.pinimg.com/originals/49/f4/16/49f416a4d35244412c69cf7113bc27ba.gif" alt="Web3 Learning" style="height: 100px; width: 100%;">
+    </div>
 </div>
+
 ---
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" style="border-radius: 20px;" alt="Footer Image"/>
