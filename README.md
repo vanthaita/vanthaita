@@ -64,10 +64,10 @@
 ---
 
 <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
-    <div style="width: 100%; display: flex; gap: 4px;" align="center">
-        <img src="https://i.pinimg.com/originals/6f/94/bc/6f94bc83f0b71571c7317ce76605ced6.gif" alt="Web3 Learning" style="height: 200px; width: 220px;">
-        <img src="https://i.pinimg.com/originals/bb/dd/4e/bbdd4ea3986f4d3990caf2efb35c05a4.gif" alt="Web3 Learning" style="height: 200px; width: 220px;">
-        <img src="https://i.pinimg.com/originals/49/f4/16/49f416a4d35244412c69cf7113bc27ba.gif" alt="Web3 Learning" style="height: 200px; width: 220px;">
+    <div style="width: 100%; display: flex; gap: 6px;" align="center" gap="6px";>
+        <img src="https://i.pinimg.com/originals/6f/94/bc/6f94bc83f0b71571c7317ce76605ced6.gif" alt="Web3 Learning" style="height: 200px; width: 250px;">
+        <img src="https://i.pinimg.com/originals/bb/dd/4e/bbdd4ea3986f4d3990caf2efb35c05a4.gif" alt="Web3 Learning" style="height: 200px; width: 250px;">
+        <img src="https://i.pinimg.com/originals/49/f4/16/49f416a4d35244412c69cf7113bc27ba.gif" alt="Web3 Learning" style="height: 200px; width: 250px;">
     </div>
 </div>
 
