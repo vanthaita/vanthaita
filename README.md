@@ -11,6 +11,10 @@
   <img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" width="200"/>
 </div>
 
+<div>
+  <img src"https://my.spline.design/robotfollowcursorforlandingpage-3faadd1c76e240d46e3861fca3857429/" width="200" />
+</div>
+
 ---
 
 ### 🌱 Currently Learning
