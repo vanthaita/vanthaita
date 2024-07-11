@@ -1,4 +1,4 @@
-<div style="width:100%;">
+<div style="width:100%;height:300px;">
     <img src="https://i0.kym-cdn.com/photos/images/original/001/336/607/c2e.gif" alt="Welcome Image" >
 </div>
 
