@@ -1,5 +1,5 @@
 <div style="width:100%;">
-    <img src="https://i0.kym-cdn.com/photos/images/original/001/336/607/c2e.gif" alt="Welcome Image" style="height:300px; width:100%;">
+    <img src="https://i0.kym-cdn.com/photos/images/original/001/336/607/c2e.gif" alt="Welcome Image" style="height:300px;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Ta Van Thai / ター・ヴァン・タイ</h1>
