@@ -1,10 +1,8 @@
 
-<h1 
-
-Uploading de54c77267d3ec567f75fe9efcc0d7cd.mp4…
 
 align="center">Hi 👋, I'm Ta Van Thai / ター・ヴァン・タイ</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3>
+![Uploading lennart-butz-ukiyo2.gif…]()
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TaThasi&label=Profile%20views&color=0e75b6&style=flat" alt="TaThasi" />
