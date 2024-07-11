@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=5066618328907640" height="438" width="600" frameborder="0" scrolling="no" ></iframe>
 
 <h1 align="center">Hi 👋, I'm Ta Van Thai / ター・ヴァン・タイ</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3>
@@ -6,13 +6,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TaThasi&label=Profile%20views&color=0e75b6&style=flat" alt="TaThasi" />
 </p>
-![tumblr_n2ow0yD6NJ1t5m02eo1_400-ezgif com-webp-to-gif-converter](https://github.com/TaThasi/TaThasi/assets/120630656/f5bd84b1-302c-4dc0-9844-9dd149bdbdf2)
+
 <div align="center">
   <img src="https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif" width="200"/>
-</div>
-
-<div>
-  <img src"https://my.spline.design/robotfollowcursorforlandingpage-3faadd1c76e240d46e3861fca3857429/" width="200" />
 </div>
 
 ---
@@ -33,7 +29,6 @@
 </div>
 
 ---
-
 
 ### 🛠️ Languages and Tools:
 <p align="center">
