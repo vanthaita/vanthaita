@@ -60,7 +60,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
-<div style="width:200px; margin:auto;">
+---
+<div style="width:200px; margin:auto; " align="center">
     <img src="https://i.pinimg.com/originals/6f/94/bc/6f94bc83f0b71571c7317ce76605ced6.gif" alt="Web3 Learning" style="height:100px; width:100%;">
 </div>
 ---
