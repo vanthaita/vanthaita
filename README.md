@@ -1,7 +1,3 @@
-<div style="width:100%;height:300px;">
-    <img src="https://i0.kym-cdn.com/photos/images/original/001/336/607/c2e.gif" alt="Welcome Image" >
-</div>
-
 <h1 align="center">Hi 👋, I'm Ta Van Thai / ター・ヴァン・タイ</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3>
 
