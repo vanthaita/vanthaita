@@ -61,8 +61,7 @@
 <!-- Streak Stats -->
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanthaita&theme=radical"/>
 
-<!-- Top Languages -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanthaita&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+
 
 </div>
 
