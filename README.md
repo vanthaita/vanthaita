@@ -21,6 +21,8 @@
   </a>
 </p>
 
+
+
 <!-- Profile View Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TaThasi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -30,6 +32,31 @@
 
 ---
 
+## 🚀 Featured Projects
+
+Here’s a quick overview of some of my standout projects:
+
+### 🏴‍☠️ **Pirate Social V2**
+A modern social platform designed to connect individuals who value creativity and freedom.  
+**Features**: Real-time communication, posts, follows, and comments to foster a vibrant community.  
+[View Project](https://github.com/TDevUIT/piratesocial-v2)
+
+### 🤖 **Mogi App V2 Turbo**
+An AI-powered mock interview platform to enhance interview skills.  
+**Features**: Real-time question generation, personalized feedback, and secure login.  
+[View Project](https://github.com/vanthaita/mogi-app-v2-turbo)
+
+### 💳 **Kaisho**
+A Web3 payment gateway simplifying cryptocurrency transactions for businesses and developers.  
+**Features**: Low fees, fast transactions, and multi-blockchain support (starting with Sui).  
+[View Project](https://kaisho.vercel.app/)
+
+### 📚 **Kapi**
+A mobile-first Japanese learning app designed to make language acquisition fun and effective.  
+**Features**: Flashcards, grammar lessons, interactive exercises, progress tracking, and leaderboards.  
+[View Project](https://github.com/TDevUIT/Kapi)
+
+---
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
 
