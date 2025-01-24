@@ -23,7 +23,7 @@
 
 <!-- Profile View Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanthaita&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TaThasi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 </div>
