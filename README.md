@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/vanthaita/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.vanthaita.space/">
+  <a href="https://portfolio-swart-three-49.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:thaitv225@gmail.com">
@@ -30,6 +30,7 @@
 
 </div>
 
+<!---
 ---
 
 ## 🚀 Featured Projects
@@ -55,8 +56,10 @@ A Web3 payment gateway simplifying cryptocurrency transactions for businesses an
 A mobile-first Japanese learning app designed to make language acquisition fun and effective.  
 **Features**: Flashcards, grammar lessons, interactive exercises, progress tracking, and leaderboards.  
 [View Project](https://github.com/TDevUIT/Kapi)
-
 ---
+-->
+
+
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
 
