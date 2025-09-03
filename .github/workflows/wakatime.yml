@@ -2,14 +2,14 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # chạy hằng ngày
-  workflow_dispatch: # cho phép chạy thủ công
+    - cron: "0 0 * * *" # chạy hằng ngày lúc 0h UTC
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: vanthaita/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
