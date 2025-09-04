@@ -9,7 +9,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-swart-three-49.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaitv225@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=vanthaita&label=Profile%20views&color=0e75b6&style=flat)
+
+<!-- Profile View Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TaThasi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -37,16 +41,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanthaita&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanthaita&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
