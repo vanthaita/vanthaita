@@ -1,11 +1,9 @@
 name: WakaTime Stats
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
+  workflow_dispatch: # trigger thủ công
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"        # để bot commit vào README
+    - cron: "0 0 * * *"   # chạy mỗi ngày lúc 0h UTC (7h sáng VN)
 
 jobs:
   update-readme:
@@ -14,4 +12,17 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          # Cấu hình hiển thị
+          STATS_RANGE: "last_1_days"   # thống kê theo ngày
+          SHOW_EDITORS: "False"        # ẩn Editors
+          SHOW_OS: "False"             # ẩn OS
+          SHOW_PROJECTS: "True"        # hiển thị Project
+          SHOW_LANGUAGE: "True"        # hiển thị Language
+          SHOW_TOTAL: "False"          # ẩn tổng all-time
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_COMMIT: "False"         # ẩn commit stats
+          SHOW_PROFILE_VIEWS: "False"  # ẩn profile views
+          SHOW_LINES_OF_CODE: "True"   # hiển thị số dòng code
+          SHOW_UPDATED_DATE: "True"    # hiển thị ngày cập nhật cuối
