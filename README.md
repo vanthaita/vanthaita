@@ -2,24 +2,53 @@
 
 # Hi there, I'm Thai Ta Van 👋
 
+💻 Fullstack Developer | 🚀 Passionate about Web & Mobile Development  
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanthaita)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanthaita/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-swart-three-49.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-swart-three-49.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaitv225@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=vanthaita&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
 
-##  Tech Stack
+---
 
-- **[Next.js](https://nextjs.org/) & [React](https://react.dev/)** - Web Framework & Library  
-- **[TypeScript](https://www.typescriptlang.org/)** - Primary Programming Language  
-- **[Tailwind CSS](https://tailwindcss.com/)** - Styling Solution  
-- **[NestJS](https://nestjs.com/)** - Framework for scalable server-side applications  
-- **[Shadcn/ui](https://ui.shadcn.com/)** - UI Components library  
-- **[React Icons](https://react-icons.github.io/react-icons/)** - Comprehensive icons collection  
-- **[TanStack](https://tanstack.com/)** (React Query, Zustand) - State management solutions  
-- **More...  
+## 👨‍💻 About Me
+- 🎓 4rd-year IT student, majoring in Web Development  
+- 🌏 Experienced in building **full-stack web apps** and **mobile apps**  
+- 🔥 Interested in **AI-powered applications** and **modern frontend design**  
 
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js) 
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
+![Shadcn/ui](https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=storybook&logoColor=white) 
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanthaita&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanthaita&layout=compact&theme=tokyonight)
+
+</div>
+
+---
 
 ## 🐍 Contribution Graph
 
