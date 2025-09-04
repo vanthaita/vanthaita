@@ -22,7 +22,8 @@ jobs:
           SHOW_LANGUAGE: "True"        # hiển thị Language
           SHOW_TOTAL: "False"          # ẩn tổng all-time
           SHOW_TOTAL_CODE_TIME: "False"
-          SHOW_COMMIT: "False"         # ẩn commit stats
+          SHOW_COMMIT: "True"          # ✅ hiển thị commit (theo ngày/tuần + buổi sáng/trưa/tối/đêm)
           SHOW_PROFILE_VIEWS: "False"  # ẩn profile views
-          SHOW_LINES_OF_CODE: "True"   # hiển thị số dòng code
+          SHOW_LINES_OF_CODE: "False"  # ❌ không hiển thị LOC
+          SHOW_LOC_CHART: "False"      # ❌ không hiển thị chart LOC
           SHOW_UPDATED_DATE: "True"    # hiển thị ngày cập nhật cuối
