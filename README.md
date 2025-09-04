@@ -18,6 +18,7 @@
 - **[Shadcn/ui](https://ui.shadcn.com/)** - UI Components library  
 - **[React Icons](https://react-icons.github.io/react-icons/)** - Comprehensive icons collection  
 - **[TanStack](https://tanstack.com/)** (React Query, Zustand) - State management solutions  
+- **More...  
 
 
 ## 🐍 Contribution Graph
