@@ -1,6 +1,6 @@
 <div align="center">
 
-<div align="center">
+
 
 # Hi there, I'm Ta Van Thai 👋
 
@@ -12,9 +12,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaitv225@gmail.com)
 
 
-
-
-
 ## 👨‍💻 About Me
-- 🎓 4rd-year IT student, majoring in Web Development  
+🎓 4rd-year IT student, majoring in Web Development  
 
