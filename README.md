@@ -18,9 +18,3 @@
 ## 👨‍💻 About Me
 - 🎓 4rd-year IT student, majoring in Web Development  
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/vanthaita/vanthaita/output/github-contribution-grid-snake.svg)
-
